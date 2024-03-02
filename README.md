@@ -8,13 +8,13 @@ Don't combine the Rhinestone name or logos, or any portion of any of them, with 
 
 ## Variations
 
-| Type            | Location                                         |
-| --------------- | ------------------------------------------------ |
-| Full logo - PNG | [/logo/full/png](/logo/full/png/)                |
-| Full logo - SVG | [/logo/full/svg](/logo/full/svg/)                |
-| Icon - PNG      | [/icon/png](/icon/png)                           |
-| Icon - SVG      | [/icon/svg](/icon/svg)                           |
-| PFP - PNG       | [/icon/png/icon_pfp.png](/icon/png/icon_pfp.png) |
+| Type            | Location                                              |
+| --------------- | ----------------------------------------------------- |
+| Full logo - PNG | [/logo/full/png](/logo/full/png/)                     |
+| Full logo - SVG | [/logo/full/svg](/logo/full/svg/)                     |
+| Icon - PNG      | [/icon/png](/logo/icon/png)                           |
+| Icon - SVG      | [/icon/svg](/logo/icon/svg)                           |
+| PFP - PNG       | [/icon/png/icon_pfp.png](/logo/icon/png/icon_pfp.png) |
 
 ### Examples
 
