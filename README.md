@@ -18,7 +18,7 @@ Don't combine the Rhinestone name or logos, or any portion of any of them, with 
 
 ### Examples
 
-| Color              | Icon and name                                                     |
+| Name and color     | Icon                                                              |
 | ------------------ | ----------------------------------------------------------------- |
 | Full logo, white   | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  |
 | Full logo, purple  | <img src="logo/full/png/logo_purple.png" alt="logo" height="50"/> |
@@ -34,9 +34,11 @@ Don't combine the Rhinestone name or logos, or any portion of any of them, with 
 
 Rhinestone's main color is a vibrant orange color on a dark blue color scheme. Since V2, Rhinestone follows a primarily dark theme (light theme coming soon). Please use the following colors accordingly.
 
-| Color            | Icon and name                                                    |
-| ---------------- | ---------------------------------------------------------------- |
-| Full logo, white | <img src="shapes/rectangle_outline.svg" alt="logo" height="50"/> |
+| Name                   | Icon                                                                 |
+| ---------------------- | -------------------------------------------------------------------- |
+| Rectangle, outline     | <img src="shapes/rectangle_outline.svg" alt="logo" height="50"/>     |
+| Rectangle, solid outer | <img src="shapes/rectangle_solid_outer.svg" alt="logo" height="50"/> |
+| Rectangle, solid inner | <img src="shapes/rectangle_solid_inner.svg" alt="logo" height="50"/> |
 
 ## Colors
 
