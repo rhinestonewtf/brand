@@ -18,15 +18,15 @@ Don't combine the Rhinestone name or logos, or any portion of any of them, with 
 
 ### Examples
 
-| Color  | Icon and name                                                     |
-| ------ | ----------------------------------------------------------------- |
-| White  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  |
-| Purple | <img src="logo/full/png/logo_purple.png" alt="logo" height="50"/> |
-| Black  | <img src="logo/full/png/logo_wblack.png" alt="logo" height="50"/> |
-| PFP    | <img src="logo/icon/png/icon_pfp.png" alt="logo" height="50"/>    |
-| White  | <img src="logo/icon/png/icon_white.png" alt="logo" height="50"/>  |
-| Purple | <img src="logo/icon/png/icon_purple.png" alt="logo" height="50"/> |
-| Black  | <img src="logo/icon/png/icon_black.png" alt="logo" height="50"/>  |
+| Color              | Icon and name                                                     |
+| ------------------ | ----------------------------------------------------------------- |
+| Full logo, white   | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  |
+| Full logo, purple  | <img src="logo/full/png/logo_purple.png" alt="logo" height="50"/> |
+| Full logo, black   | <img src="logo/full/png/logo_black.png" alt="logo" height="50"/>  |
+| Icon, white        | <img src="logo/icon/png/icon_white.png" alt="logo" height="50"/>  |
+| Icon, purple       | <img src="logo/icon/png/icon_purple.png" alt="logo" height="50"/> |
+| Icon, black        | <img src="logo/icon/png/icon_black.png" alt="logo" height="50"/>  |
+| PFP, always purple | <img src="logo/icon/png/icon_pfp.png" alt="logo" height="50"/>    |
 
 ---
 
