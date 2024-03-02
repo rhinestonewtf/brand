@@ -1,4 +1,4 @@
-![Rhinestone Visual Identity](/cover.png)
+# Rhinestone Brand Assets
 
 The official brand assets for any integrations, promotional or marketing materials.
 
