@@ -8,25 +8,25 @@ Don't combine the Rhinestone name or logos, or any portion of any of them, with 
 
 ## Variations
 
-| Type            | Location                                              |
-| --------------- | ----------------------------------------------------- |
-| Full logo - PNG | [/logo/full/png](/logo/full/png/)                     |
-| Full logo - SVG | [/logo/full/svg](/logo/full/svg/)                     |
-| Icon - PNG      | [/icon/png](/logo/icon/png)                           |
-| Icon - SVG      | [/icon/svg](/logo/icon/svg)                           |
-| PFP - PNG       | [/icon/png/icon_pfp.png](/logo/icon/png/icon_pfp.png) |
+| Type            | Location                                                   |
+| --------------- | ---------------------------------------------------------- |
+| Full logo - PNG | [/logo/full/png](/logo/full/png/)                          |
+| Full logo - SVG | [/logo/full/svg](/logo/full/svg/)                          |
+| Icon - PNG      | [/logo/icon/png](/logo/icon/png)                           |
+| Icon - SVG      | [/logo/icon/svg](/logo/icon/svg)                           |
+| PFP - PNG       | [/logo/icon/png/icon_pfp.png](/logo/icon/png/icon_pfp.png) |
 
 ### Examples
 
 | Color  | Icon and name                                                     |
 | ------ | ----------------------------------------------------------------- |
-| White  | <img src="logo/full/png/logo-white.png" alt="logo" height="50"/>  |
-| Purple | <img src="logo/full/png/logo-purple.png" alt="logo" height="50"/> |
-| Black  | <img src="logo/full/png/logo-wblack.png" alt="logo" height="50"/> |
+| White  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  |
+| Purple | <img src="logo/full/png/logo_purple.png" alt="logo" height="50"/> |
+| Black  | <img src="logo/full/png/logo_wblack.png" alt="logo" height="50"/> |
 | PFP    | <img src="logo/icon/png/icon_pfp.png" alt="logo" height="50"/>    |
-| White  | <img src="logo/icon/png/icon-white.png" alt="logo" height="50"/>  |
-| Purple | <img src="logo/icon/png/icon-purple.png" alt="logo" height="50"/> |
-| Black  | <img src="logo/icon/png/icon-black.png" alt="logo" height="50"/>  |
+| White  | <img src="logo/icon/png/icon_white.png" alt="logo" height="50"/>  |
+| Purple | <img src="logo/icon/png/icon_purple.png" alt="logo" height="50"/> |
+| Black  | <img src="logo/icon/png/icon_black.png" alt="logo" height="50"/>  |
 
 ---
 
