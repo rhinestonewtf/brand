@@ -8,13 +8,12 @@ Don't combine the Rhinestone name or logos, or any portion of any of them, with 
 
 ## Variations
 
-| Type            | Location                                                   |
-| --------------- | ---------------------------------------------------------- |
-| Full logo - PNG | [/logo/full/png](/logo/full/png/)                          |
-| Full logo - SVG | [/logo/full/svg](/logo/full/svg/)                          |
-| Icon - PNG      | [/logo/icon/png](/logo/icon/png)                           |
-| Icon - SVG      | [/logo/icon/svg](/logo/icon/svg)                           |
-| PFP - PNG       | [/logo/icon/png/icon_pfp.png](/logo/icon/png/icon_pfp.png) |
+| Type            | Location                          |
+| --------------- | --------------------------------- |
+| Full logo - PNG | [/logo/full/png](/logo/full/png/) |
+| Full logo - SVG | [/logo/full/svg](/logo/full/svg/) |
+| Icon - PNG      | [/logo/icon/png](/logo/icon/png)  |
+| Icon - SVG      | [/logo/icon/svg](/logo/icon/svg)  |
 
 ### Examples
 
@@ -32,7 +31,7 @@ Don't combine the Rhinestone name or logos, or any portion of any of them, with 
 
 ## Shapes
 
-Rhinestone's main color is a vibrant orange color on a dark blue color scheme. Since V2, Rhinestone follows a primarily dark theme (light theme coming soon). Please use the following colors accordingly.
+Rhinestone's main shape is a rounded rectangle, which is the only shape used to create our logo. It is also the base for icons of our tools and products.
 
 | Name                   | Icon                                                                 |
 | ---------------------- | -------------------------------------------------------------------- |
